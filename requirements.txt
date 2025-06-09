@@ -1,3 +1,5 @@
+beautifulsoup4
 selenium
-pyspellchecker
 webdriver-manager
+pyspellchecker
+requests
