@@ -16,7 +16,7 @@ This tool scans a given website URL for potential spelling errors in visible tex
 2. The tool fetches visible content from the page using Selenium and BeautifulSoup.
 3. Words are filtered and spell-checked using the `pyspellchecker` library.
 4. For each potential typo, you are prompted whether to add it to the domain-specific whitelist.
-5. Remaining typos are visually highlighted in a saved HTML file (`highlighted_output.html`), with CSS preserved.
+5. Remaining typos are visually highlighted directly **in-browser** using dynamic JavaScript and CSS injection
 
 ## Requirements
 
@@ -24,3 +24,6 @@ Install required dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+```
+

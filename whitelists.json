@@ -90,5 +90,21 @@
     "mechatronic",
     "schulich",
     "technoculture"
+  ],
+  "www.spglobal.com": [
+    "http",
+    "https",
+    "spglobal",
+    "www"
+  ],
+  "www.csd.uwo.ca": [
+    "anwar",
+    "dept",
+    "haque",
+    "helpdesk",
+    "honours",
+    "middlesex",
+    "uwo",
+    "westernu"
   ]
 }
